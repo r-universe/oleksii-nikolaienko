@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ExtDist"]
+	path = ExtDist
+	url = https://github.com/oleksii-nikolaienko/extdist
+	shallow = true
+	registered = true
